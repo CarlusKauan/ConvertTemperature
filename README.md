@@ -1,7 +1,7 @@
 # Conversor de temperatura [Temperature Converter ]
 
 <p>
-  Conversor de temperatura feito por mim, para melhorar minhas habilidades ᕙ(`▿´)ᕗ 
+  Conversor de temperatura feito por mim, para melhorar as minhas habilidades ᕙ(`▿´)ᕗ 
   
   [ Temperature converter made by me to improve my skills  ]
 </p>
