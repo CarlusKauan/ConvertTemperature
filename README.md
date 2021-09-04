@@ -1,4 +1,4 @@
-# Conversor de temperatura 
+# Conversor de temperatura [Temperature Converter ]
 
 <p>
   Conversor de temperatura feito por mim, para melhora de habilidades ᕙ(`▿´)ᕗ 
