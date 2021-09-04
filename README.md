@@ -2,6 +2,8 @@
 
 <p>
   Conversor de temperatura feito por mim, para melhora de habilidades ᕙ(`▿´)ᕗ 
+  
+  [ Temperature converter made by me to improve skills ]
 </p>
 
 <!-- <div align="left">¯\_(ツ)_/¯ ¯\_(ツ)_/¯ ¯\_(ツ)_/¯</div> -->
