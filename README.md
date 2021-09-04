@@ -1,9 +1,9 @@
 # Conversor de temperatura [Temperature Converter ]
 
 <p>
-  Conversor de temperatura feito por mim, para melhora de habilidades ᕙ(`▿´)ᕗ 
+  Conversor de temperatura feito por mim, para melhorar minhas habilidades ᕙ(`▿´)ᕗ 
   
-  [ Temperature converter made by me to improve skills ]
+  [ Temperature converter made by me to improve my skills  ]
 </p>
 
 <!-- <div align="left">¯\_(ツ)_/¯ ¯\_(ツ)_/¯ ¯\_(ツ)_/¯</div> -->
