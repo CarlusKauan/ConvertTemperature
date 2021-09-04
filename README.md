@@ -1,4 +1,4 @@
-# Conversor de temperatura
+# Conversor de temperatura 
 
 <p>
   Conversor de temperatura feito por mim, para melhora de habilidades ᕙ(`▿´)ᕗ 
@@ -8,7 +8,7 @@
 
 <!-- <div align="left"> (*￣▽￣)ノ”(^∇^*)  </div> -->
 
-## Linguagens  
+### Linguagens usadas [ Languages used ]
 
 <p><img align="center" alt="Carlos-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">           HTML5 <!--❤️--> ✔</p>
 <p><img align="center" alt="Carlos-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
